@@ -8,6 +8,8 @@
 
 `collect_files.sh /path/to/input_dir /path/to/output_dir`
 
+тест 
+
 Скрипт должен быть в корне репозитория
 
 Пример:
